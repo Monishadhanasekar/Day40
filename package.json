@@ -1,0 +1,29 @@
+{
+    "name": "node-tasks",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+      "express": "^4.17.1",
+      "node-emoji": "^1.10.0"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.12"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MohmedIkram/node-fs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/MohmedIkram/node-fs/issues"
+    },
+    "homepage": "https://github.com/MohmedIkram/node-fs#readme"
+  }
